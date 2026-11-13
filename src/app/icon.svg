@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Ironbark Fidgets mark: hex bolt head, ember bearing ring. Steel #262a2f, bone #ece7df, ember #b9512c / #d0683f. -->
+  <path d="M60 8 105 34v52L60 112 15 86V34Z" fill="#262a2f" stroke="#ece7df" stroke-width="6" stroke-linejoin="round"/>
+  <circle cx="60" cy="60" r="27" fill="none" stroke="#b9512c" stroke-width="9"/>
+  <g fill="#ece7df"><circle cx="60" cy="33" r="4.5"/><circle cx="83.4" cy="73.5" r="4.5"/><circle cx="36.6" cy="73.5" r="4.5"/></g>
+  <circle cx="60" cy="60" r="9" fill="#d0683f"/>
+</svg>

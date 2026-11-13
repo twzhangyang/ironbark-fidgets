@@ -1,0 +1,1 @@
+CREATE INDEX "orders_email_idx" ON "orders" USING btree ("email");
